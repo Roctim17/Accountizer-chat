@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "text": "1 Reference site about Lorem Ipsum, giving information",
+        "time": "10:36 PM",
+        "from":true
+    },
+    {
+        "id": 2,
+        "text": "2 on its origins, as well as ?",
+        "time": "4:38 AM",
+        "from":true
+    },
+    {
+        "id": 3,
+        "text": "3 as well as a random Lipsum generator. Reference site about Lorem Ipsum, giving information on its origins as well as a random Lipsum generator. Reference site",
+        "time": "4:38 AM",
+        "from":false
+    },
+    {
+        "id": 4,
+        "text": "4 on its origins, as well as ?",
+        "time": "4:38 AM",
+        "from":true
+    },
+    {
+        "id": 5,
+        "text": "5 Reference site about Lorem Ipsum",
+        "time": "8:33 PM",
+        "from":false
+    }
+]

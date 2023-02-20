@@ -1,0 +1,25 @@
+[debug] [2023-02-20T18:15:54.597Z] ----------------------------------------------------------------------
+[debug] [2023-02-20T18:15:54.599Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\mdrok\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-02-20T18:15:54.600Z] CLI Version:   11.12.0
+[debug] [2023-02-20T18:15:54.600Z] Platform:      win32
+[debug] [2023-02-20T18:15:54.600Z] Node Version:  v16.17.1
+[debug] [2023-02-20T18:15:54.602Z] Time:          Tue Feb 21 2023 00:15:54 GMT+0600 (Bangladesh Standard Time)
+[debug] [2023-02-20T18:15:54.602Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-02-20T18:15:54.610Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-02-20T18:15:54.611Z] > authorizing via signed-in user (roctim60@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\naxus\accountizer
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
